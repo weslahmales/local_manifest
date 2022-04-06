@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+        <!-- Sync trees -->
+        <project path="device/xiaomi/ulysse-common" name="device_xiaomi_ulysse-common" remote="mgs28-mh" revision="12" />
+        <project path="device/xiaomi/ulysse" name="device_xiaomi_ulysse" remote="weslahmales" revision="12" />
+        <project path="vendor/xiaomi/ugg" name="vendor_xiaomi_ugg" remote="mgs28-mh" revision="12" />
+        <project path="vendor/xiaomi/ulysse-common" name="vendor_xiaomi_ulysse-common" remote="mgs28-mh" revision="12" />
+        <project name="mi-msm8937/android_kernel_xiaomi_msm8937" path="kernel/xiaomi/msm8937" remote="github" revision="a12/master" clone-depth="1" />
+
+</manifest>
